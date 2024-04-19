@@ -1,0 +1,136 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+body {
+    background: rgb(138, 136, 136)
+}
+
+header {
+    max-width: 1240px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.sudden {
+    font-size: 36px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.fry {
+    font-size: 24px;
+    text-align: center;
+    margin: auto;
+    margin-top: 40px;
+}
+
+.fry2 {
+    font-size: 24px;
+    margin: auto;
+    margin-top: 40px;
+    text-align: center;
+}
+
+.ps {
+    font-size: 24px;
+    margin: auto;
+    margin-top: 40px;
+    text-align: center;
+}
+
+/* //////////////////////////////////////////////////////////////////////////// */
+
+
+.maincontainer{
+  
+    max-width: 1240px;
+    width: 100%;
+    display: flex;
+    margin: auto;
+    margin-top: 75px;
+}
+
+.describe{
+    display: none;
+    padding: 15px;
+   
+}
+
+.active{
+    display: flex;
+   width: 100%;
+  
+    background: rgb(110, 110, 110);
+   border-radius: 10px;
+   
+}
+
+
+.beat{
+    max-width: 200px;
+    width: 100%;
+}
+.beat.beat2{
+    width: 500px;
+    height: 300px;
+}
+
+.text{
+    font-size: 20px;
+    color: white;
+   margin-left: 10px;
+}
+
+.godbtn{
+    padding: 6px;
+    background: black;
+    color: white;
+    font-size: 10px;
+    max-width: 100px;
+    width: 100%;
+    height: 40px;
+    border-radius: 5px;
+        
+}
+.textach{
+    color: white;
+    font-size: 18px;
+}
+
+textarea{
+    resize: none;
+}
+
+.achievments{
+    max-width: 1240px;
+    width: 100%;
+    padding: 20px;
+    margin: auto;
+    margin-top: 40px;
+    background: rgb(110, 110, 110);
+    border-radius: 10px;
+}
+
+.mylove{
+    max-width: 1240px;
+    width: 100%;
+    padding: 20px;
+    margin: auto;
+    margin-top: 40px;
+    background: rgb(110, 110, 110);
+    border-radius: 10px;
+}
+
+.text.textlove2{
+    margin-top: 15px;
+}
